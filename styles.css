@@ -2,7 +2,7 @@
     color: red;
 }
 
-@layer {
+@layer mylayer {
     .second {
         color: blue;
     }
