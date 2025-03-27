@@ -1,0 +1,9 @@
+.first {
+    color: red;
+}
+
+@layer {
+    .second {
+        color: blue;
+    }
+}
